@@ -62,7 +62,7 @@ Below is an overview of how the Smart-Sorting application was built:
 
 The dataset contains images of various fruits and vegetables labeled as either `healthy` or `rotten`.
 
-Folder structure:
+Folder structure:  
 dataset/  
 ├── healthy/  
 └── rotten/  
